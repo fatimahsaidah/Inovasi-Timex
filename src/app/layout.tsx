@@ -1,3 +1,3 @@
 import type { Metadata } from 'next'; import './globals.css';
-export const metadata: Metadata = { title: 'Microteaching Communication', description: 'Communication microteaching learning platform' };
+export const metadata: Metadata = { title: 'Urban Bendang Innovators', description: 'Communication microteaching learning platform' };
 export default function RootLayout({children}:{children:React.ReactNode}) { return <html lang="en"><body>{children}</body></html>; }

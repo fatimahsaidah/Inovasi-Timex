@@ -231,7 +231,7 @@ try {
           </p>
 
           <h1 className="my-2 text-3xl font-bold">
-            Microteaching Communication
+            Urban Bendang Innovators
           </h1>
 
           <div className="grid gap-4 sm:grid-cols-2">
@@ -339,7 +339,7 @@ try {
       <header className="mb-8 flex flex-wrap items-center justify-between gap-4">
         <div>
           <p className="text-sm font-bold uppercase text-[var(--purple)]">
-            Microteaching Communication
+            Urban Bendang Innovators
           </p>
           <h1 className="text-3xl font-bold">
             Hello, {student.full_name} 👋
@@ -644,7 +644,7 @@ try {
       )}
 
       <footer className="muted mt-8 text-center text-xs">
-        Microteaching Communication · Learning space
+        Urban Bendang Innovators · Learning space
       </footer>
     </main>
   );
